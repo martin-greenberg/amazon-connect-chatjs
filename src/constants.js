@@ -40,6 +40,9 @@ export const REGION_CONFIG = {
   },
   "eu-west-2": {
     invokeUrl: "https://participant.connect.eu-west-2.amazonaws.com"
+  },
+  "us-gov-west-1": {
+    invokeUrl: "https://participant.connect.us-gov-west-1.amazonaws.com"
   }
 };
 
